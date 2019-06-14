@@ -5,3 +5,4 @@
 * Shashank Bhardwaj
 * Dev Yadav
 * Parul
+* Ekansh Gupta
